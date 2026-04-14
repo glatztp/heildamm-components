@@ -50,7 +50,7 @@ Modern component libraries require clear architectural patterns, consistent file
 ### Quick Start
 
 ```bash
-git clone https://github.com/your-org/heildamm-components.git
+git clone https://github.com/glatztp/heildamm-components.git
 cd heildamm-components
 pnpm install
 ```
